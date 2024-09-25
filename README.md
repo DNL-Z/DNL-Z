@@ -10,7 +10,7 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 - GraphQL
 - Docker
 
-### Additional frameworks & libraries
+### Additional Frameworks & Libraries
 
 - React
 - Mapbox
@@ -18,6 +18,10 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 - Storybook
 - Cypress.io
 - Jest
+
+### Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/danylo-zhalkovskyy/)
 
 <!--
 **DNL-Z/DNL-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
