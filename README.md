@@ -2,6 +2,23 @@
 
 I'm a Full Stack Developer, solving problems by applying my solutions is a real satisfaction.
 
+### My Stack
+
+- Next JS
+- TypeScript
+- Tailwind CSS
+- GraphQL
+- Docker
+
+### Additional frameworks & libraries
+
+- React
+- Mapbox
+- Highcharts
+- Storybook
+- Cypress.io
+- Jest
+
 <!--
 **DNL-Z/DNL-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
