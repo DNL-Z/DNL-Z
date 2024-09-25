@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World, I'm Danylo ZHALKOVSKYY 🖖🏼
+
+I'm a Full Stack Developer, solving problems by applying my solutions is a real satisfaction.
 
 <!--
 **DNL-Z/DNL-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
