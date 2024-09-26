@@ -2,38 +2,32 @@
 
 I'm a Full Stack Developer, solving problems by applying my solutions is a real satisfaction.
 
-### My Stack
+### My Stack 🔮
 
-- Next JS
+- Next.js
 - TypeScript
 - Tailwind CSS
 - GraphQL
 - Docker
 
-### Additional Frameworks & Libraries
+### Additional Languages, Frameworks & Libraries 📡
 
 - React
 - Mapbox
 - Highcharts
+- TanStack
+- Shadcn/ui
+- Zod
+- NextAuth.js
 - Storybook
 - Cypress.io
 - Jest
+- PHP
+- Symfony
+- Bedrock WordPress
+- Twig
 
 ### Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/danylo-zhalkovskyy/)
-
-<!--
-**DNL-Z/DNL-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [E-mail](mailto:danylo.zhalkovskyy@icloud.com?subject=[Contact-GitHub])
