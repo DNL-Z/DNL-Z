@@ -27,7 +27,7 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 - Bedrock WordPress
 - Twig
 
-### Contact Me
+### Contact Me 💡
 
 - [LinkedIn](https://www.linkedin.com/in/danylo-zhalkovskyy/)
 - [E-mail](mailto:danylo.zhalkovskyy@icloud.com?subject=[Contact-GitHub])
