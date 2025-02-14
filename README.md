@@ -4,6 +4,7 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 
 ### My Stack 🔮
 
+- React
 - Next.js
 - TypeScript
 - Tailwind CSS
@@ -12,11 +13,10 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 
 ### Additional Languages, Frameworks & Libraries 📡
 
-- React
+- Shadcn/ui
 - Mapbox
 - Highcharts
 - TanStack
-- Shadcn/ui
 - Zod
 - NextAuth.js
 - Storybook
