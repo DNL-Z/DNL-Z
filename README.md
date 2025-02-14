@@ -13,6 +13,7 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 
 ### Additional Languages, Frameworks & Libraries 📡
 
+- Node.js
 - Shadcn/ui
 - Mapbox
 - Highcharts
