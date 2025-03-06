@@ -16,6 +16,7 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 
 - SQL
 - MongoDB
+- GraphQL
 - NextAuth.js
 - Highcharts
 - Shadcn/ui
