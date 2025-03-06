@@ -7,26 +7,28 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 - React
 - Next.js
 - TypeScript
-- Tailwind CSS
-- GraphQL
+- Node.js
 - Docker
+- Tailwind CSS
+- Storybook
 
 ### Additional Languages, Frameworks & Libraries 📡
 
-- Node.js
-- Shadcn/ui
-- Mapbox
-- Highcharts
-- TanStack
-- Zod
+- SQL
+- MongoDB
 - NextAuth.js
-- Storybook
-- Cypress.io
+- Highcharts
+- Shadcn/ui
+- TanStack
+- Mapbox
+- Zod
+- Cypress
 - Jest
+- Python
+- Jupyter
 - PHP
-- Symfony
 - Bedrock WordPress
-- Twig
+- Swift
 
 ### Contact Me 💡
 
