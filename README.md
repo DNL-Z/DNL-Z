@@ -10,12 +10,12 @@ I'm a Full Stack Developer, solving problems by applying my solutions is a real 
 - Node.js
 - Docker
 - Git
-- Tailwind CSS
-- Storybook
+- SQL
 
 ### Additional Languages, Frameworks & Libraries 📡
 
-- SQL
+- Tailwind CSS
+- Storybook
 - MongoDB
 - GraphQL
 - NextAuth.js
